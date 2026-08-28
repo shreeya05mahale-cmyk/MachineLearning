@@ -7,6 +7,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - Multiple linear regression in Python (20-08-26)
 - Polynomial regression in Python (23-08-26)
 - Support vector regression in Python (27-08-26)
+- Decision tree regression in Python (28-08-26)
 
 ## Tools
 - Python
