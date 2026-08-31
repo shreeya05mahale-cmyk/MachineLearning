@@ -16,3 +16,6 @@ This repository tracks my Machine Learning progress for the holidays.
 - pandas
 - scikit-learn 
 - Matplotlib
+
+## Languages
+- Jupyter Notebook (Python)
