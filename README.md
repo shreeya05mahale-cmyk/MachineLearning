@@ -10,6 +10,8 @@ This repository tracks my Machine Learning progress for the holidays.
 - Decision tree regression in Python (28-08-26)
 - Random forest regression in Python (01-09-26)
 - Model evaluation in Python (03-09-26)
+- Logistic regression in Python (20-09-26)
+- K-Nearest Neighbors in Python (21-09-26)
 
 ## Tools
 - Python
