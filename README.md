@@ -12,6 +12,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - Model evaluation in Python (03-09-26)
 - Logistic regression in Python (20-09-26)
 - K-Nearest Neighbors in Python (21-09-26)
+- Support Vector Machine in Python (21-09-26)
 
 ## Tools
 - Python
