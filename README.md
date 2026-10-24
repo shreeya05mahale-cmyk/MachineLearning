@@ -13,6 +13,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - Logistic regression in Python (20-09-26)
 - K-Nearest Neighbors in Python (21-09-26)
 - Support Vector Machine in Python (21-09-26)
+- Kernel SVM (25-10-26)
 
 ## Tools
 - Python
