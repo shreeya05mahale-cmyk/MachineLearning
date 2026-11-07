@@ -14,6 +14,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - K-Nearest Neighbors in Python (21-09-26)
 - Support Vector Machine in Python (21-09-26)
 - Kernel SVM in Python (25-10-26)
+- Naive Bayes in Python (07-11-26)
 
 ## Tools
 - Python
