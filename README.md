@@ -9,7 +9,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - Support vector regression in Python (27-08-26)
 - Decision tree regression in Python (28-08-26)
 - Random forest regression in Python (01-09-26)
-- Model evaluation in Python (03-09-26)
+- Regression model evaluation in Python (03-09-26)
 - Logistic regression in Python (20-09-26)
 - K-Nearest Neighbors in Python (21-09-26)
 - Support Vector Machine in Python (21-09-26)
@@ -17,6 +17,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - Naive Bayes in Python (07-11-26)
 - Decision tree classification in Python (09-11-26)
 - Random forest classification in Python (10-11-26)
+- Classification model evaluation in Python (10-11-26)
 
 ## Tools
 - Python
