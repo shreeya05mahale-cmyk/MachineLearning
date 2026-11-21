@@ -18,6 +18,7 @@ This repository tracks my Machine Learning progress for the holidays.
 - Decision tree classification in Python (09-11-26)
 - Random forest classification in Python (10-11-26)
 - Classification model evaluation in Python (10-11-26)
+- K-Means clustering in Python (22-11-2026)
 
 ## Tools
 - Python
